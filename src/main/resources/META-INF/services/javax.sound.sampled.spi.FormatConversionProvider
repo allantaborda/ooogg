@@ -1,0 +1,2 @@
+# Provider for OGG sound conversion services
+com.allantaborda.ooogg.spi.OggFormatConversionProvider

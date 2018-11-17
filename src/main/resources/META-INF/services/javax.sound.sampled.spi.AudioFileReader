@@ -1,0 +1,2 @@
+# Provider for OGG sound file-reading services
+com.allantaborda.ooogg.spi.OggAudioFileReader
